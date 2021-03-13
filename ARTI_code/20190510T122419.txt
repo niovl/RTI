@@ -1,0 +1,2 @@
+2019-05-10 12:24:19 [Log.m]-[debug] hello world!
+2019-05-10 12:24:19 [Log.m]-[debug] hello world!
