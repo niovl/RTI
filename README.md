@@ -1,4 +1,2 @@
-# RTI
-![loading.png](https://csdl-images.computer.org/trans/tm/2010/05/figures/ttm20100506211.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/10)
-
-![avatar](https://csdl-images.computer.org/trans/tm/2010/05/figures/ttm20100506211.gif =50x)  
+# RTI  
+![avatar](https://www.researchgate.net/profile/Joey-Wilson-2/publication/224097523/figure/fig2/AS:667853325864967@1536240049507/An-illustration-of-an-RTI-network-Each-node-broadcasts-to-the-others-creating-many_Q320.jpg)  
